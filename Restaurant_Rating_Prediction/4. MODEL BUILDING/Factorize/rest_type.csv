@@ -1,0 +1,88 @@
+,0
+Casual Dining,0
+"Cafe, Casual Dining",1
+Quick Bites,2
+"Casual Dining, Cafe",3
+Cafe,4
+"Quick Bites, Cafe",5
+"Cafe, Quick Bites",6
+Delivery,7
+Mess,8
+Dessert Parlor,9
+"Bakery, Dessert Parlor",10
+Pub,11
+Bakery,12
+"Takeaway, Delivery",13
+Fine Dining,14
+Beverage Shop,15
+Sweet Shop,16
+Bar,17
+"Dessert Parlor, Sweet Shop",18
+"Bakery, Quick Bites",19
+"Sweet Shop, Quick Bites",20
+Kiosk,21
+Food Truck,22
+"Quick Bites, Dessert Parlor",23
+"Beverage Shop, Quick Bites",24
+"Beverage Shop, Dessert Parlor",25
+Takeaway,26
+"Pub, Casual Dining",27
+"Casual Dining, Bar",28
+"Dessert Parlor, Beverage Shop",29
+"Quick Bites, Bakery",30
+"Microbrewery, Casual Dining",31
+Lounge,32
+"Bar, Casual Dining",33
+Food Court,34
+"Cafe, Bakery",35
+Dhaba,36
+"Quick Bites, Sweet Shop",37
+Microbrewery,38
+"Food Court, Quick Bites",39
+"Quick Bites, Beverage Shop",40
+"Pub, Bar",41
+"Casual Dining, Pub",42
+"Lounge, Bar",43
+"Dessert Parlor, Quick Bites",44
+"Food Court, Dessert Parlor",45
+"Casual Dining, Sweet Shop",46
+"Food Court, Casual Dining",47
+"Casual Dining, Microbrewery",48
+"Lounge, Casual Dining",49
+"Cafe, Food Court",50
+"Beverage Shop, Cafe",51
+"Cafe, Dessert Parlor",52
+"Dessert Parlor, Cafe",53
+"Dessert Parlor, Bakery",54
+"Microbrewery, Pub",55
+"Bakery, Food Court",56
+Club,57
+"Quick Bites, Food Court",58
+"Bakery, Cafe",59
+"Pub, Cafe",60
+"Casual Dining, Irani Cafee",61
+"Fine Dining, Lounge",62
+"Bar, Quick Bites",63
+Confectionery,64
+"Pub, Microbrewery",65
+"Microbrewery, Lounge",66
+"Fine Dining, Microbrewery",67
+"Fine Dining, Bar",68
+"Dessert Parlor, Kiosk",69
+Bhojanalya,70
+"Casual Dining, Quick Bites",71
+"Cafe, Bar",72
+"Casual Dining, Lounge",73
+"Bakery, Beverage Shop",74
+"Microbrewery, Bar",75
+"Cafe, Lounge",76
+"Bar, Pub",77
+"Lounge, Cafe",78
+"Club, Casual Dining",79
+"Quick Bites, Mess",80
+"Quick Bites, Meat Shop",81
+"Quick Bites, Kiosk",82
+"Lounge, Microbrewery",83
+"Food Court, Beverage Shop",84
+"Dessert Parlor, Food Court",85
+"Bar, Lounge",86

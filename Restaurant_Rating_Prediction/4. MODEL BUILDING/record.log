@@ -1,0 +1,620 @@
+2021-10-01 21:46:32,537 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-10-01 21:47:23,864 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-10-01 21:47:25,903 WARNING werkzeug MainThread :  * Debugger is active!
+2021-10-01 21:47:25,911 INFO werkzeug MainThread :  * Debugger PIN: 260-549-285
+2021-10-01 21:47:25,934 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-01 21:47:44,779 INFO app Thread-5 : This is a home page
+2021-10-01 21:47:44,779 WARNING app Thread-5 : Something is wrong
+2021-10-01 21:47:44,779 ERROR app Thread-5 : Error occured please check your route
+2021-10-01 21:47:44,790 INFO werkzeug Thread-5 : 127.0.0.1 - - [01/Oct/2021 21:47:44] "[37mGET / HTTP/1.1[0m" 200 -
+2021-10-01 21:47:45,043 INFO werkzeug Thread-6 : 127.0.0.1 - - [01/Oct/2021 21:47:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-10-01 21:47:56,184 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\flask\\__pycache__\\debughelpers.cpython-38.pyc', reloading
+2021-10-01 21:47:56,190 INFO app Thread-8 : This is predicted calur reonded to two decimal values and the value is 3.89
+2021-10-01 21:47:56,190 WARNING app Thread-8 : Something is wrong or the predicted value is not accurate
+2021-10-01 21:47:56,190 ERROR app Thread-8 : Something is wrong, failed to predict the value
+2021-10-01 21:47:56,190 INFO werkzeug Thread-8 : 127.0.0.1 - - [01/Oct/2021 21:47:56] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-10-01 21:47:57,332 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-10-01 21:47:59,340 WARNING werkzeug MainThread :  * Debugger is active!
+2021-10-01 21:47:59,348 INFO werkzeug MainThread :  * Debugger PIN: 260-549-285
+2021-10-01 21:47:59,375 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-01 21:49:42,318 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\wsgiref\\__init__.py', reloading
+2021-10-01 21:49:42,330 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\werkzeug\\wrappers\\json.py', reloading
+2021-10-01 21:49:43,458 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-10-01 21:49:45,475 WARNING werkzeug MainThread :  * Debugger is active!
+2021-10-01 21:49:45,487 INFO werkzeug MainThread :  * Debugger PIN: 260-549-285
+2021-10-01 21:49:45,527 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-01 21:49:54,719 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\werkzeug\\datastructures.py', reloading
+2021-10-01 21:49:55,894 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-10-01 21:49:58,316 WARNING werkzeug MainThread :  * Debugger is active!
+2021-10-01 21:49:58,327 INFO werkzeug MainThread :  * Debugger PIN: 260-549-285
+2021-10-01 21:49:58,372 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-01 21:51:25,515 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Restaurent_Rating_Prediction\\Restaurent_Rating_Prediction\\4. MODEL BUILDING\\app.py', reloading
+2021-10-01 21:51:25,516 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Restaurent_Rating_Prediction\\Restaurent_Rating_Prediction\\4. MODEL BUILDING\\app.py', reloading
+2021-10-01 21:51:25,516 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Restaurent_Rating_Prediction\\Restaurent_Rating_Prediction\\4. MODEL BUILDING\\app.py', reloading
+2021-10-01 21:51:26,714 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-10-01 21:51:28,602 WARNING werkzeug MainThread :  * Debugger is active!
+2021-10-01 21:51:28,609 INFO werkzeug MainThread :  * Debugger PIN: 260-549-285
+2021-10-01 21:51:28,641 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-01 21:55:45,451 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Restaurent_Rating_Prediction\\Restaurent_Rating_Prediction\\4. MODEL BUILDING\\app.py', reloading
+2021-10-01 21:55:45,452 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Restaurent_Rating_Prediction\\Restaurent_Rating_Prediction\\4. MODEL BUILDING\\app.py', reloading
+2021-10-01 21:55:45,452 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Restaurent_Rating_Prediction\\Restaurent_Rating_Prediction\\4. MODEL BUILDING\\app.py', reloading
+2021-10-01 21:55:46,647 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-10-01 21:55:48,547 WARNING werkzeug MainThread :  * Debugger is active!
+2021-10-01 21:55:48,555 INFO werkzeug MainThread :  * Debugger PIN: 260-549-285
+2021-10-01 21:55:48,585 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-01 21:56:18,200 INFO app Thread-5 : This is predicted calur reonded to two decimal values and the value is 3.89
+2021-10-01 21:56:18,207 INFO werkzeug Thread-5 : 127.0.0.1 - - [01/Oct/2021 21:56:18] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-10-01 21:56:40,473 INFO app Thread-7 : This is predicted calur reonded to two decimal values and the value is 4.09
+2021-10-01 21:56:40,474 INFO werkzeug Thread-7 : 127.0.0.1 - - [01/Oct/2021 21:56:40] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-10-01 21:56:42,375 INFO app Thread-8 : This is a list of Cuisines page
+2021-10-01 21:56:42,384 INFO werkzeug Thread-8 : 127.0.0.1 - - [01/Oct/2021 21:56:42] "[37mGET /cuisine HTTP/1.1[0m" 200 -
+2021-10-01 21:56:43,841 INFO app Thread-9 : This is a list of locations page
+2021-10-01 21:56:43,844 INFO werkzeug Thread-9 : 127.0.0.1 - - [01/Oct/2021 21:56:43] "[37mGET /locations HTTP/1.1[0m" 200 -
+2021-10-01 21:56:44,360 INFO app Thread-10 : This is a list of restaurant types page
+2021-10-01 21:56:44,363 INFO werkzeug Thread-10 : 127.0.0.1 - - [01/Oct/2021 21:56:44] "[37mGET /resttype HTTP/1.1[0m" 200 -
+2021-10-01 21:56:45,643 INFO app Thread-11 : This is a list of Menu items page
+2021-10-01 21:56:45,815 INFO werkzeug Thread-11 : 127.0.0.1 - - [01/Oct/2021 21:56:45] "[37mGET /menuitem HTTP/1.1[0m" 200 -
+2021-10-01 21:56:46,722 INFO app Thread-12 : This is a home page
+2021-10-01 21:56:46,722 INFO werkzeug Thread-12 : 127.0.0.1 - - [01/Oct/2021 21:56:46] "[37mGET / HTTP/1.1[0m" 200 -
+2021-10-01 21:56:47,884 INFO app Thread-13 : This is a home page
+2021-10-01 21:56:47,885 INFO werkzeug Thread-13 : 127.0.0.1 - - [01/Oct/2021 21:56:47] "[37mGET / HTTP/1.1[0m" 200 -
+2021-10-01 21:57:51,785 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Restaurent_Rating_Prediction\\Restaurent_Rating_Prediction\\4. MODEL BUILDING\\app.py', reloading
+2021-10-01 21:57:51,785 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Restaurent_Rating_Prediction\\Restaurent_Rating_Prediction\\4. MODEL BUILDING\\app.py', reloading
+2021-10-01 21:57:51,785 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Restaurent_Rating_Prediction\\Restaurent_Rating_Prediction\\4. MODEL BUILDING\\app.py', reloading
+2021-10-01 21:57:52,943 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-10-01 21:57:54,887 WARNING werkzeug MainThread :  * Debugger is active!
+2021-10-01 21:57:54,895 INFO werkzeug MainThread :  * Debugger PIN: 260-549-285
+2021-10-01 21:57:54,922 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-07 22:01:37,760 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-10-07 22:01:40,136 WARNING werkzeug MainThread :  * Debugger is active!
+2021-10-07 22:01:40,146 INFO werkzeug MainThread :  * Debugger PIN: 247-046-411
+2021-10-07 22:01:40,185 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-07 22:01:47,776 INFO app Thread-5 : This is a home page
+2021-10-07 22:01:47,786 INFO werkzeug Thread-5 : 127.0.0.1 - - [07/Oct/2021 22:01:47] "[37mGET / HTTP/1.1[0m" 200 -
+2021-10-07 22:01:47,789 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\encodings\\__pycache__\\unicode_escape.cpython-38.pyc', reloading
+2021-10-07 22:01:48,932 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-10-07 22:01:50,992 WARNING werkzeug MainThread :  * Debugger is active!
+2021-10-07 22:01:51,000 INFO werkzeug MainThread :  * Debugger PIN: 247-046-411
+2021-10-07 22:01:51,030 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-07 22:01:51,263 INFO werkzeug Thread-5 : 127.0.0.1 - - [07/Oct/2021 22:01:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-10-07 22:02:00,541 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\flask\\__pycache__\\debughelpers.cpython-38.pyc', reloading
+2021-10-07 22:02:00,551 INFO app Thread-6 : This is predicted value rounded to two decimal values and the value is 3.89
+2021-10-07 22:02:00,558 INFO werkzeug Thread-6 : 127.0.0.1 - - [07/Oct/2021 22:02:00] "[37mPOST /predict HTTP/1.1[0m" 200 -
+2021-10-07 22:02:01,673 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-10-07 22:02:03,513 WARNING werkzeug MainThread :  * Debugger is active!
+2021-10-07 22:02:03,521 INFO werkzeug MainThread :  * Debugger PIN: 247-046-411
+2021-10-07 22:02:03,549 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-07 22:09:09,567 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\__pycache__\\activate.cpython-38.pyc', reloading
+2021-10-07 22:09:10,680 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-10-07 22:09:12,455 WARNING werkzeug MainThread :  * Debugger is active!
+2021-10-07 22:09:12,462 INFO werkzeug MainThread :  * Debugger PIN: 247-046-411
+2021-10-07 22:09:12,491 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-07 22:09:16,460 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Scripts\\jupyter-script.py', reloading
+2021-10-07 22:09:16,517 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jupyter_core\\__pycache__\\command.cpython-38.pyc', reloading
+2021-10-07 22:09:16,711 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-10-07 22:09:18,512 WARNING werkzeug MainThread :  * Debugger is active!
+2021-10-07 22:09:18,520 INFO werkzeug MainThread :  * Debugger PIN: 247-046-411
+2021-10-07 22:09:18,548 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-07 22:09:19,034 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jupyterlab\\__pycache__\\serverextension.cpython-38.pyc', reloading
+2021-10-07 22:09:20,172 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-10-07 22:09:22,101 WARNING werkzeug MainThread :  * Debugger is active!
+2021-10-07 22:09:22,108 INFO werkzeug MainThread :  * Debugger PIN: 247-046-411
+2021-10-07 22:09:22,136 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-07 22:09:30,501 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jupyter_client\\ioloop\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-07 22:09:30,502 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jupyter_client\\ioloop\\__pycache__\\manager.cpython-38.pyc', reloading
+2021-10-07 22:09:30,504 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jupyter_client\\ioloop\\__pycache__\\restarter.cpython-38.pyc', reloading
+2021-10-07 22:09:30,639 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\__pycache__\\ipykernel_launcher.cpython-38.pyc', reloading
+2021-10-07 22:09:31,759 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-10-07 22:09:33,563 WARNING werkzeug MainThread :  * Debugger is active!
+2021-10-07 22:09:33,570 INFO werkzeug MainThread :  * Debugger PIN: 247-046-411
+2021-10-07 22:09:33,603 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-07 22:15:48,339 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Restaurent_Rating_Prediction\\Restaurant_Rating_Prediction\\Restaurent_Rating_Prediction\\4. MODEL BUILDING\\app.py', reloading
+2021-10-07 22:15:49,459 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-10-07 22:15:51,409 WARNING werkzeug MainThread :  * Debugger is active!
+2021-10-07 22:15:51,418 INFO werkzeug MainThread :  * Debugger PIN: 247-046-411
+2021-10-07 22:15:51,446 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-07 22:15:51,557 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda_build\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-07 22:15:51,557 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda_build\\__pycache__\\_version.cpython-38.pyc', reloading
+2021-10-07 22:15:51,558 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\common\\__pycache__\\cuda.cpython-38.pyc', reloading
+2021-10-07 22:15:51,635 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\binstar_client\\utils\\__pycache__\\appdirs.cpython-38.pyc', reloading
+2021-10-07 22:15:51,636 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\binstar_client\\utils\\__pycache__\\yaml.cpython-38.pyc', reloading
+2021-10-07 22:15:51,636 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\yaml\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-07 22:15:51,637 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\yaml\\__pycache__\\error.cpython-38.pyc', reloading
+2021-10-07 22:15:51,637 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\yaml\\__pycache__\\tokens.cpython-38.pyc', reloading
+2021-10-07 22:15:51,638 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\yaml\\__pycache__\\events.cpython-38.pyc', reloading
+2021-10-07 22:15:51,639 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\yaml\\__pycache__\\nodes.cpython-38.pyc', reloading
+2021-10-07 22:15:51,639 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\yaml\\__pycache__\\loader.cpython-38.pyc', reloading
+2021-10-07 22:15:51,639 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\yaml\\__pycache__\\reader.cpython-38.pyc', reloading
+2021-10-07 22:15:51,647 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\yaml\\__pycache__\\scanner.cpython-38.pyc', reloading
+2021-10-07 22:15:51,647 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\yaml\\__pycache__\\parser.cpython-38.pyc', reloading
+2021-10-07 22:15:51,648 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\yaml\\__pycache__\\composer.cpython-38.pyc', reloading
+2021-10-07 22:15:51,648 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\yaml\\__pycache__\\constructor.cpython-38.pyc', reloading
+2021-10-07 22:15:51,650 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\yaml\\__pycache__\\resolver.cpython-38.pyc', reloading
+2021-10-07 22:15:51,652 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\yaml\\__pycache__\\dumper.cpython-38.pyc', reloading
+2021-10-07 22:15:51,653 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\yaml\\__pycache__\\emitter.cpython-38.pyc', reloading
+2021-10-07 22:15:51,653 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\yaml\\__pycache__\\serializer.cpython-38.pyc', reloading
+2021-10-07 22:15:51,654 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\yaml\\__pycache__\\representer.cpython-38.pyc', reloading
+2021-10-07 22:15:51,654 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\yaml\\__pycache__\\cyaml.cpython-38.pyc', reloading
+2021-10-07 22:15:51,656 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\binstar_client\\utils\\__pycache__\\http_codes.cpython-38.pyc', reloading
+2021-10-07 22:15:51,657 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\binstar_client\\mixins\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-07 22:15:51,657 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\binstar_client\\mixins\\__pycache__\\organizations.cpython-38.pyc', reloading
+2021-10-07 22:15:51,658 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\binstar_client\\mixins\\__pycache__\\channels.cpython-38.pyc', reloading
+2021-10-07 22:15:51,658 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\binstar_client\\mixins\\__pycache__\\package.cpython-38.pyc', reloading
+2021-10-07 22:15:51,659 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\binstar_client\\__pycache__\\_version.cpython-38.pyc', reloading
+2021-10-07 22:15:51,659 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda_env\\specs\\__pycache__\\notebook.cpython-38.pyc', reloading
+2021-10-07 22:15:51,660 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\nbformat\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-07 22:15:51,660 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\traitlets\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-07 22:15:51,661 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\traitlets\\__pycache__\\traitlets.cpython-38.pyc', reloading
+2021-10-07 22:15:51,662 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\traitlets\\utils\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-07 22:15:51,662 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\traitlets\\utils\\__pycache__\\getargspec.cpython-38.pyc', reloading
+2021-10-07 22:15:51,663 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\traitlets\\utils\\__pycache__\\importstring.cpython-38.pyc', reloading
+2021-10-07 22:15:51,663 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\traitlets\\utils\\__pycache__\\sentinel.cpython-38.pyc', reloading
+2021-10-07 22:15:51,663 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\traitlets\\utils\\__pycache__\\bunch.cpython-38.pyc', reloading
+2021-10-07 22:15:51,664 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\traitlets\\utils\\__pycache__\\descriptions.cpython-38.pyc', reloading
+2021-10-07 22:15:51,665 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\traitlets\\utils\\__pycache__\\decorators.cpython-38.pyc', reloading
+2021-10-07 22:15:51,666 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\traitlets\\__pycache__\\_version.cpython-38.pyc', reloading
+2021-10-07 22:15:51,666 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\traitlets\\__pycache__\\log.cpython-38.pyc', reloading
+2021-10-07 22:15:51,667 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\nbformat\\__pycache__\\_version.cpython-38.pyc', reloading
+2021-10-07 22:15:51,667 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\nbformat\\v1\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-07 22:15:51,668 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\nbformat\\v1\\__pycache__\\nbbase.cpython-38.pyc', reloading
+2021-10-07 22:15:51,668 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\ipython_genutils\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-07 22:15:51,669 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\ipython_genutils\\__pycache__\\_version.cpython-38.pyc', reloading
+2021-10-07 22:15:51,669 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\ipython_genutils\\__pycache__\\ipstruct.cpython-38.pyc', reloading
+2021-10-07 22:15:51,670 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\nbformat\\v1\\__pycache__\\nbjson.cpython-38.pyc', reloading
+2021-10-07 22:15:51,670 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\nbformat\\v1\\__pycache__\\rwbase.cpython-38.pyc', reloading
+2021-10-07 22:15:51,671 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\nbformat\\v1\\__pycache__\\convert.cpython-38.pyc', reloading
+2021-10-07 22:15:51,671 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\nbformat\\v2\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-07 22:15:51,672 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\nbformat\\v2\\__pycache__\\nbbase.cpython-38.pyc', reloading
+2021-10-07 22:15:51,672 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\nbformat\\v2\\__pycache__\\nbjson.cpython-38.pyc', reloading
+2021-10-07 22:15:51,672 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\nbformat\\v2\\__pycache__\\rwbase.cpython-38.pyc', reloading
+2021-10-07 22:15:51,673 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\ipython_genutils\\__pycache__\\py3compat.cpython-38.pyc', reloading
+2021-10-07 22:15:51,673 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\ipython_genutils\\__pycache__\\encoding.cpython-38.pyc', reloading
+2021-10-07 22:15:51,674 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\nbformat\\__pycache__\\_compat.cpython-38.pyc', reloading
+2021-10-07 22:15:51,674 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\nbformat\\v2\\__pycache__\\nbxml.cpython-38.pyc', reloading
+2021-10-07 22:15:51,675 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\nbformat\\v2\\__pycache__\\nbpy.cpython-38.pyc', reloading
+2021-10-07 22:15:51,675 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\nbformat\\v2\\__pycache__\\convert.cpython-38.pyc', reloading
+2021-10-07 22:15:51,676 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\nbformat\\v3\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-07 22:15:51,676 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\nbformat\\v3\\__pycache__\\nbbase.cpython-38.pyc', reloading
+2021-10-07 22:15:51,677 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\nbformat\\v3\\__pycache__\\nbjson.cpython-38.pyc', reloading
+2021-10-07 22:15:51,677 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\nbformat\\v3\\__pycache__\\rwbase.cpython-38.pyc', reloading
+2021-10-07 22:15:51,678 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\nbformat\\v3\\__pycache__\\nbpy.cpython-38.pyc', reloading
+2021-10-07 22:15:51,678 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\nbformat\\v3\\__pycache__\\convert.cpython-38.pyc', reloading
+2021-10-07 22:15:51,679 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\nbformat\\v4\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-07 22:15:51,679 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\nbformat\\v4\\__pycache__\\nbbase.cpython-38.pyc', reloading
+2021-10-07 22:15:51,680 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\nbformat\\__pycache__\\notebooknode.cpython-38.pyc', reloading
+2021-10-07 22:15:51,680 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\nbformat\\corpus\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-07 22:15:51,681 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\nbformat\\corpus\\__pycache__\\words.cpython-38.pyc', reloading
+2021-10-07 22:15:51,681 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\nbformat\\v4\\__pycache__\\nbjson.cpython-38.pyc', reloading
+2021-10-07 22:15:51,681 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\nbformat\\v4\\__pycache__\\rwbase.cpython-38.pyc', reloading
+2021-10-07 22:15:51,682 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\nbformat\\v4\\__pycache__\\convert.cpython-38.pyc', reloading
+2021-10-07 22:15:51,682 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\nbformat\\__pycache__\\sentinel.cpython-38.pyc', reloading
+2021-10-07 22:15:51,683 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\nbformat\\__pycache__\\validator.cpython-38.pyc', reloading
+2021-10-07 22:15:51,683 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\ipython_genutils\\__pycache__\\importstring.cpython-38.pyc', reloading
+2021-10-07 22:15:51,683 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\nbformat\\__pycache__\\json_compat.cpython-38.pyc', reloading
+2021-10-07 22:15:51,684 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jsonschema\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-07 22:15:51,685 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jsonschema\\__pycache__\\exceptions.cpython-38.pyc', reloading
+2021-10-07 22:15:51,686 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\attr\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-07 22:15:51,686 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\attr\\__pycache__\\converters.cpython-38.pyc', reloading
+2021-10-07 22:15:51,687 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\attr\\__pycache__\\_make.cpython-38.pyc', reloading
+2021-10-07 22:15:51,687 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\attr\\__pycache__\\_config.cpython-38.pyc', reloading
+2021-10-07 22:15:51,688 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\attr\\__pycache__\\setters.cpython-38.pyc', reloading
+2021-10-07 22:15:51,688 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\attr\\__pycache__\\exceptions.cpython-38.pyc', reloading
+2021-10-07 22:15:51,689 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\attr\\__pycache__\\_compat.cpython-38.pyc', reloading
+2021-10-07 22:15:51,690 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\attr\\__pycache__\\filters.cpython-38.pyc', reloading
+2021-10-07 22:15:51,691 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\attr\\__pycache__\\validators.cpython-38.pyc', reloading
+2021-10-07 22:15:51,694 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\attr\\__pycache__\\_funcs.cpython-38.pyc', reloading
+2021-10-07 22:15:51,694 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\attr\\__pycache__\\_version_info.cpython-38.pyc', reloading
+2021-10-07 22:15:51,695 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\attr\\__pycache__\\_next_gen.cpython-38.pyc', reloading
+2021-10-07 22:15:51,695 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jsonschema\\__pycache__\\_utils.cpython-38.pyc', reloading
+2021-10-07 22:15:51,696 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jsonschema\\__pycache__\\compat.cpython-38.pyc', reloading
+2021-10-07 22:15:51,697 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jsonschema\\__pycache__\\_format.cpython-38.pyc', reloading
+2021-10-07 22:15:51,701 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jsonschema\\__pycache__\\_types.cpython-38.pyc', reloading
+2021-10-07 22:15:51,701 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\pyrsistent\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-07 22:15:51,702 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\pyrsistent\\__pycache__\\_pmap.cpython-38.pyc', reloading
+2021-10-07 22:15:51,702 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\pyrsistent\\__pycache__\\_pvector.cpython-38.pyc', reloading
+2021-10-07 22:15:51,703 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\pyrsistent\\__pycache__\\_transformations.cpython-38.pyc', reloading
+2021-10-07 22:15:51,705 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\pyrsistent\\__pycache__\\_pset.cpython-38.pyc', reloading
+2021-10-07 22:15:51,705 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\pyrsistent\\__pycache__\\_pbag.cpython-38.pyc', reloading
+2021-10-07 22:15:51,706 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\pyrsistent\\__pycache__\\_plist.cpython-38.pyc', reloading
+2021-10-07 22:15:51,706 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\pyrsistent\\__pycache__\\_pdeque.cpython-38.pyc', reloading
+2021-10-07 22:15:51,707 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\pyrsistent\\__pycache__\\_checked_types.cpython-38.pyc', reloading
+2021-10-07 22:15:51,708 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\pyrsistent\\__pycache__\\_field_common.cpython-38.pyc', reloading
+2021-10-07 22:15:51,708 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\pyrsistent\\__pycache__\\_precord.cpython-38.pyc', reloading
+2021-10-07 22:15:51,709 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\pyrsistent\\__pycache__\\_pclass.cpython-38.pyc', reloading
+2021-10-07 22:15:51,710 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\pyrsistent\\__pycache__\\_immutable.cpython-38.pyc', reloading
+2021-10-07 22:15:51,710 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\pyrsistent\\__pycache__\\_helpers.cpython-38.pyc', reloading
+2021-10-07 22:15:51,710 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\pyrsistent\\__pycache__\\_toolz.cpython-38.pyc', reloading
+2021-10-07 22:15:51,711 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jsonschema\\__pycache__\\validators.cpython-38.pyc', reloading
+2021-10-07 22:15:51,712 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jsonschema\\__pycache__\\_legacy_validators.cpython-38.pyc', reloading
+2021-10-07 22:15:51,712 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jsonschema\\__pycache__\\_validators.cpython-38.pyc', reloading
+2021-10-07 22:15:51,714 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\importlib\\__pycache__\\metadata.cpython-38.pyc', reloading
+2021-10-07 22:15:51,719 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\nbformat\\__pycache__\\reader.cpython-38.pyc', reloading
+2021-10-07 22:15:51,720 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\nbformat\\__pycache__\\converter.cpython-38.pyc', reloading
+2021-10-07 22:15:51,720 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda_env\\specs\\__pycache__\\requirements.cpython-38.pyc', reloading
+2021-10-07 22:15:51,721 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda_env\\specs\\__pycache__\\yaml_file.cpython-38.pyc', reloading
+2021-10-07 22:15:51,721 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda_env\\installers\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-07 22:15:51,722 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda_env\\installers\\__pycache__\\base.cpython-38.pyc', reloading
+2021-10-07 22:15:51,722 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda_env\\cli\\__pycache__\\main_export.cpython-38.pyc', reloading
+2021-10-07 22:15:51,723 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda_env\\cli\\__pycache__\\main_list.cpython-38.pyc', reloading
+2021-10-07 22:15:51,723 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda_env\\cli\\__pycache__\\main_remove.cpython-38.pyc', reloading
+2021-10-07 22:15:51,723 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda_env\\cli\\__pycache__\\main_update.cpython-38.pyc', reloading
+2021-10-07 22:15:51,724 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda_env\\cli\\__pycache__\\main_config.cpython-38.pyc', reloading
+2021-10-07 22:15:51,724 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda_env\\cli\\__pycache__\\main_vars.cpython-38.pyc', reloading
+2021-10-07 22:15:52,983 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-10-07 22:15:54,722 WARNING werkzeug MainThread :  * Debugger is active!
+2021-10-07 22:15:54,730 INFO werkzeug MainThread :  * Debugger PIN: 247-046-411
+2021-10-07 22:15:54,756 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-07 22:22:28,362 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-07 22:22:28,363 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\api\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-07 22:22:28,363 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\parso\\__pycache__\\parser.cpython-38.pyc', reloading
+2021-10-07 22:22:28,364 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\parso\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-07 22:22:28,364 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\parso\\__pycache__\\tree.cpython-38.pyc', reloading
+2021-10-07 22:22:28,365 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\parso\\__pycache__\\utils.cpython-38.pyc', reloading
+2021-10-07 22:22:28,365 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\parso\\pgen2\\__pycache__\\grammar_parser.cpython-38.pyc', reloading
+2021-10-07 22:22:28,365 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\parso\\python\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-07 22:22:28,365 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\parso\\pgen2\\__pycache__\\generator.cpython-38.pyc', reloading
+2021-10-07 22:22:28,365 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\parso\\python\\__pycache__\\tokenize.cpython-38.pyc', reloading
+2021-10-07 22:22:28,365 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\parso\\__pycache__\\grammar.cpython-38.pyc', reloading
+2021-10-07 22:22:28,366 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\parso\\python\\__pycache__\\diff.cpython-38.pyc', reloading
+2021-10-07 22:22:28,366 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\parso\\python\\__pycache__\\tree.cpython-38.pyc', reloading
+2021-10-07 22:22:28,366 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\parso\\python\\__pycache__\\parser.cpython-38.pyc', reloading
+2021-10-07 22:22:28,366 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\parso\\pgen2\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-07 22:22:28,366 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\parso\\python\\__pycache__\\prefix.cpython-38.pyc', reloading
+2021-10-07 22:22:28,367 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\parso\\__pycache__\\cache.cpython-38.pyc', reloading
+2021-10-07 22:22:28,367 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\parso\\python\\__pycache__\\errors.cpython-38.pyc', reloading
+2021-10-07 22:22:28,367 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\parso\\__pycache__\\normalizer.cpython-38.pyc', reloading
+2021-10-07 22:22:28,367 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\__pycache__\\_compatibility.cpython-38.pyc', reloading
+2021-10-07 22:22:28,367 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\parso\\__pycache__\\file_io.cpython-38.pyc', reloading
+2021-10-07 22:22:28,367 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\__pycache__\\file_io.cpython-38.pyc', reloading
+2021-10-07 22:22:28,368 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\__pycache__\\parser_utils.cpython-38.pyc', reloading
+2021-10-07 22:22:28,368 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\__pycache__\\debug.cpython-38.pyc', reloading
+2021-10-07 22:22:28,368 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\__pycache__\\settings.cpython-38.pyc', reloading
+2021-10-07 22:22:28,368 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\api\\__pycache__\\classes.cpython-38.pyc', reloading
+2021-10-07 22:22:28,368 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\__pycache__\\cache.cpython-38.pyc', reloading
+2021-10-07 22:22:28,369 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\parso\\__pycache__\\_compatibility.cpython-38.pyc', reloading
+2021-10-07 22:22:28,369 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\parso\\python\\__pycache__\\pep8.cpython-38.pyc', reloading
+2021-10-07 22:22:28,369 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-07 22:22:28,370 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\__pycache__\\common.cpython-38.pyc', reloading
+2021-10-07 22:22:28,370 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\__pycache__\\helpers.cpython-38.pyc', reloading
+2021-10-07 22:22:28,370 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\__pycache__\\base_value.cpython-38.pyc', reloading
+2021-10-07 22:22:28,370 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\__pycache__\\imports.cpython-38.pyc', reloading
+2021-10-07 22:22:28,371 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\__pycache__\\cache.cpython-38.pyc', reloading
+2021-10-07 22:22:28,371 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\__pycache__\\utils.cpython-38.pyc', reloading
+2021-10-07 22:22:28,371 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\__pycache__\\sys_path.cpython-38.pyc', reloading
+2021-10-07 22:22:28,371 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\__pycache__\\filters.cpython-38.pyc', reloading
+2021-10-07 22:22:28,371 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\__pycache__\\flow_analysis.cpython-38.pyc', reloading
+2021-10-07 22:22:28,372 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\__pycache__\\recursion.cpython-38.pyc', reloading
+2021-10-07 22:22:28,372 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\__pycache__\\names.cpython-38.pyc', reloading
+2021-10-07 22:22:28,372 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\plugins\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-07 22:22:28,372 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\__pycache__\\signature.cpython-38.pyc', reloading
+2021-10-07 22:22:28,372 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\__pycache__\\context.cpython-38.pyc', reloading
+2021-10-07 22:22:28,372 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\__pycache__\\analysis.cpython-38.pyc', reloading
+2021-10-07 22:22:28,373 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\__pycache__\\lazy_value.cpython-38.pyc', reloading
+2021-10-07 22:22:28,373 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\__pycache__\\docstrings.cpython-38.pyc', reloading
+2021-10-07 22:22:28,373 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\gradual\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-07 22:22:28,373 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\value\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-07 22:22:28,373 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\__pycache__\\arguments.cpython-38.pyc', reloading
+2021-10-07 22:22:28,374 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\gradual\\__pycache__\\stub_value.cpython-38.pyc', reloading
+2021-10-07 22:22:28,374 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\gradual\\__pycache__\\typeshed.cpython-38.pyc', reloading
+2021-10-07 22:22:28,374 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\parso\\python\\__pycache__\\token.cpython-38.pyc', reloading
+2021-10-07 22:22:28,374 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\value\\__pycache__\\module.cpython-38.pyc', reloading
+2021-10-07 22:22:28,374 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\value\\__pycache__\\iterable.cpython-38.pyc', reloading
+2021-10-07 22:22:28,374 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\value\\__pycache__\\dynamic_arrays.cpython-38.pyc', reloading
+2021-10-07 22:22:28,375 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\__pycache__\\parser_cache.cpython-38.pyc', reloading
+2021-10-07 22:22:28,375 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\value\\__pycache__\\instance.cpython-38.pyc', reloading
+2021-10-07 22:22:28,375 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\gradual\\__pycache__\\generics.cpython-38.pyc', reloading
+2021-10-07 22:22:28,375 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\gradual\\__pycache__\\typing.cpython-38.pyc', reloading
+2021-10-07 22:22:28,375 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\gradual\\__pycache__\\base.cpython-38.pyc', reloading
+2021-10-07 22:22:28,376 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\gradual\\__pycache__\\type_var.cpython-38.pyc', reloading
+2021-10-07 22:22:28,376 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\__pycache__\\syntax_tree.cpython-38.pyc', reloading
+2021-10-07 22:22:28,376 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\compiled\\__pycache__\\value.cpython-38.pyc', reloading
+2021-10-07 22:22:28,376 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\gradual\\__pycache__\\annotation.cpython-38.pyc', reloading
+2021-10-07 22:22:28,376 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\__pycache__\\param.cpython-38.pyc', reloading
+2021-10-07 22:22:28,377 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\value\\__pycache__\\decorator.cpython-38.pyc', reloading
+2021-10-07 22:22:28,377 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\api\\__pycache__\\keywords.cpython-38.pyc', reloading
+2021-10-07 22:22:28,377 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\compiled\\__pycache__\\mixed.cpython-38.pyc', reloading
+2021-10-07 22:22:28,377 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\api\\__pycache__\\completion_cache.cpython-38.pyc', reloading
+2021-10-07 22:22:28,377 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\api\\__pycache__\\helpers.cpython-38.pyc', reloading
+2021-10-07 22:22:28,377 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\api\\__pycache__\\interpreter.cpython-38.pyc', reloading
+2021-10-07 22:22:28,378 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\pydoc_data\\__pycache__\\topics.cpython-38.pyc', reloading
+2021-10-07 22:22:28,378 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\api\\__pycache__\\completion.cpython-38.pyc', reloading
+2021-10-07 22:22:28,378 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\api\\__pycache__\\strings.cpython-38.pyc', reloading
+2021-10-07 22:22:28,378 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\api\\__pycache__\\file_name.cpython-38.pyc', reloading
+2021-10-07 22:22:28,378 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\api\\__pycache__\\environment.cpython-38.pyc', reloading
+2021-10-07 22:22:28,379 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\filecmp.cpython-38.pyc', reloading
+2021-10-07 22:22:28,379 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\gradual\\__pycache__\\conversion.cpython-38.pyc', reloading
+2021-10-07 22:22:28,379 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\compiled\\subprocess\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-07 22:22:28,379 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\api\\__pycache__\\project.cpython-38.pyc', reloading
+2021-10-07 22:22:28,379 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\__pycache__\\references.cpython-38.pyc', reloading
+2021-10-07 22:22:28,379 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\api\\__pycache__\\errors.cpython-38.pyc', reloading
+2021-10-07 22:22:28,380 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\plugins\\__pycache__\\registry.cpython-38.pyc', reloading
+2021-10-07 22:22:28,380 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\gradual\\__pycache__\\utils.cpython-38.pyc', reloading
+2021-10-07 22:22:28,380 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\api\\refactoring\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-07 22:22:28,380 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\api\\__pycache__\\exceptions.cpython-38.pyc', reloading
+2021-10-07 22:22:28,380 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\value\\__pycache__\\klass.cpython-38.pyc', reloading
+2021-10-07 22:22:28,381 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\plugins\\__pycache__\\stdlib.cpython-38.pyc', reloading
+2021-10-07 22:22:28,381 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\compiled\\__pycache__\\getattr_static.cpython-38.pyc', reloading
+2021-10-07 22:22:28,381 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\compiled\\__pycache__\\access.cpython-38.pyc', reloading
+2021-10-07 22:22:28,381 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\compiled\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-07 22:22:28,381 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\plugins\\__pycache__\\pytest.cpython-38.pyc', reloading
+2021-10-07 22:22:28,382 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\api\\refactoring\\__pycache__\\extract.cpython-38.pyc', reloading
+2021-10-07 22:22:28,382 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\value\\__pycache__\\function.cpython-38.pyc', reloading
+2021-10-07 22:22:28,382 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\plugins\\__pycache__\\flask.cpython-38.pyc', reloading
+2021-10-07 22:22:28,382 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\plugins\\__pycache__\\django.cpython-38.pyc', reloading
+2021-10-07 22:22:28,382 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\compiled\\subprocess\\__pycache__\\functions.cpython-38.pyc', reloading
+2021-10-07 22:22:28,383 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\pydoc_data\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-07 22:22:29,716 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-10-07 22:22:31,803 WARNING werkzeug MainThread :  * Debugger is active!
+2021-10-07 22:22:31,811 INFO werkzeug MainThread :  * Debugger PIN: 247-046-411
+2021-10-07 22:22:31,842 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-07 22:42:41,150 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Restaurent_Rating_Prediction\\Restaurant_Rating_Prediction\\Restaurent_Rating_Prediction\\4. MODEL BUILDING\\Factorize\\Dictionary.py', reloading
+2021-10-07 22:42:41,153 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Restaurent_Rating_Prediction\\Restaurant_Rating_Prediction\\Restaurent_Rating_Prediction\\4. MODEL BUILDING\\Factorize\\cuisines.py', reloading
+2021-10-07 22:42:41,156 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Restaurent_Rating_Prediction\\Restaurant_Rating_Prediction\\Restaurent_Rating_Prediction\\4. MODEL BUILDING\\Factorize\\loation.py', reloading
+2021-10-07 22:42:41,159 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Restaurent_Rating_Prediction\\Restaurant_Rating_Prediction\\Restaurent_Rating_Prediction\\4. MODEL BUILDING\\Factorize\\menu_item.py', reloading
+2021-10-07 22:42:41,162 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Restaurent_Rating_Prediction\\Restaurant_Rating_Prediction\\Restaurent_Rating_Prediction\\4. MODEL BUILDING\\Factorize\\rest_type.py', reloading
+2021-10-07 22:42:41,192 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Restaurent_Rating_Prediction\\Restaurant_Rating_Prediction\\Restaurent_Rating_Prediction\\4. MODEL BUILDING\\request.py', reloading
+2021-10-07 22:42:43,137 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-10-07 22:42:45,772 WARNING werkzeug MainThread :  * Debugger is active!
+2021-10-07 22:42:45,781 INFO werkzeug MainThread :  * Debugger PIN: 247-046-411
+2021-10-07 22:42:45,810 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-07 22:43:18,808 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\subprocess.py', reloading
+2021-10-07 22:43:19,190 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\jedi\\inference\\__pycache__\\star_args.cpython-38.pyc', reloading
+2021-10-07 22:43:20,309 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-10-07 22:43:22,068 WARNING werkzeug MainThread :  * Debugger is active!
+2021-10-07 22:43:22,076 INFO werkzeug MainThread :  * Debugger PIN: 247-046-411
+2021-10-07 22:43:22,103 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-07 22:43:53,020 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\cli\\__pycache__\\main_list.cpython-38.pyc', reloading
+2021-10-07 22:43:54,455 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-10-07 22:43:56,477 WARNING werkzeug MainThread :  * Debugger is active!
+2021-10-07 22:43:56,486 INFO werkzeug MainThread :  * Debugger PIN: 247-046-411
+2021-10-07 22:43:56,524 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-07 22:50:42,787 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\timeit.py', reloading
+2021-10-07 22:50:43,945 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-10-07 22:50:45,773 WARNING werkzeug MainThread :  * Debugger is active!
+2021-10-07 22:50:45,781 INFO werkzeug MainThread :  * Debugger PIN: 247-046-411
+2021-10-07 22:50:45,811 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-07 22:51:03,921 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\abc.py', reloading
+2021-10-07 22:51:05,053 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-10-07 22:51:06,985 WARNING werkzeug MainThread :  * Debugger is active!
+2021-10-07 22:51:06,994 INFO werkzeug MainThread :  * Debugger PIN: 247-046-411
+2021-10-07 22:51:07,032 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-07 22:51:16,956 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\pandas_profiling\\__init__.py', reloading
+2021-10-07 22:51:17,105 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\pandas_profiling\\controller\\pandas_decorator.py', reloading
+2021-10-07 22:51:17,127 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Restaurent_Rating_Prediction\\Restaurant_Rating_Prediction\\Restaurent_Rating_Prediction\\4. MODEL BUILDING\\model.py', reloading
+2021-10-07 22:51:18,258 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-10-07 22:51:20,230 WARNING werkzeug MainThread :  * Debugger is active!
+2021-10-07 22:51:20,237 INFO werkzeug MainThread :  * Debugger PIN: 247-046-411
+2021-10-07 22:51:20,264 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-07 22:56:38,034 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Restaurent_Rating_Prediction\\Restaurant_Rating_Prediction\\Restaurent_Rating_Prediction\\4. MODEL BUILDING\\__pycache__\\logging.cpython-38.pyc', reloading
+2021-10-10 19:12:48,078 INFO werkzeug MainThread :  * Restarting with windowsapi reloader
+2021-10-10 19:12:49,896 WARNING werkzeug MainThread :  * Debugger is active!
+2021-10-10 19:12:49,912 INFO werkzeug MainThread :  * Debugger PIN: 247-046-411
+2021-10-10 19:12:49,943 INFO werkzeug Thread-1 :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-10-10 19:12:58,136 INFO app Thread-5 : This is a home page
+2021-10-10 19:12:58,146 INFO werkzeug Thread-5 : 127.0.0.1 - - [10/Oct/2021 19:12:58] "[37mGET / HTTP/1.1[0m" 200 -
+2021-10-10 19:12:58,400 INFO werkzeug Thread-6 : 127.0.0.1 - - [10/Oct/2021 19:12:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2021-10-10 19:12:59,846 INFO werkzeug Thread-7 : 127.0.0.1 - - [10/Oct/2021 19:12:59] "[35m[1mGET /cuisine HTTP/1.1[0m" 500 -
+2021-10-10 19:13:00,194 INFO werkzeug Thread-8 : 127.0.0.1 - - [10/Oct/2021 19:13:00] "[37mGET /cuisine?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-10-10 19:13:00,196 INFO werkzeug Thread-9 : 127.0.0.1 - - [10/Oct/2021 19:13:00] "[37mGET /cuisine?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-10-10 19:13:00,197 INFO werkzeug Thread-10 : 127.0.0.1 - - [10/Oct/2021 19:13:00] "[37mGET /cuisine?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-10-10 19:13:00,441 INFO werkzeug Thread-11 : 127.0.0.1 - - [10/Oct/2021 19:13:00] "[37mGET /cuisine?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-10-10 19:13:00,608 INFO werkzeug Thread-12 : 127.0.0.1 - - [10/Oct/2021 19:13:00] "[37mGET /cuisine?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-10-10 20:19:44,602 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Scripts\\conda-script.py', reloading
+2021-10-10 20:19:44,624 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\encodings\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-10 20:19:44,624 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\codecs.cpython-38.pyc', reloading
+2021-10-10 20:19:44,624 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\encodings\\__pycache__\\aliases.cpython-38.pyc', reloading
+2021-10-10 20:19:44,624 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\encodings\\__pycache__\\utf_8.cpython-38.pyc', reloading
+2021-10-10 20:19:44,624 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\encodings\\__pycache__\\cp1252.cpython-38.pyc', reloading
+2021-10-10 20:19:44,624 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\encodings\\__pycache__\\latin_1.cpython-38.pyc', reloading
+2021-10-10 20:19:44,624 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\io.cpython-38.pyc', reloading
+2021-10-10 20:19:44,624 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\abc.cpython-38.pyc', reloading
+2021-10-10 20:19:44,624 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\site.cpython-38.pyc', reloading
+2021-10-10 20:19:44,624 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\os.cpython-38.pyc', reloading
+2021-10-10 20:19:44,624 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\stat.cpython-38.pyc', reloading
+2021-10-10 20:19:44,624 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\_collections_abc.cpython-38.pyc', reloading
+2021-10-10 20:19:44,624 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\ntpath.cpython-38.pyc', reloading
+2021-10-10 20:19:44,639 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\genericpath.cpython-38.pyc', reloading
+2021-10-10 20:19:44,640 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\_sitebuiltins.cpython-38.pyc', reloading
+2021-10-10 20:19:44,642 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\_bootlocale.cpython-38.pyc', reloading
+2021-10-10 20:19:44,644 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\types.cpython-38.pyc', reloading
+2021-10-10 20:19:44,645 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\importlib\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-10 20:19:44,645 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\warnings.cpython-38.pyc', reloading
+2021-10-10 20:19:44,646 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\importlib\\__pycache__\\util.cpython-38.pyc', reloading
+2021-10-10 20:19:44,647 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\importlib\\__pycache__\\abc.cpython-38.pyc', reloading
+2021-10-10 20:19:44,647 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\importlib\\__pycache__\\machinery.cpython-38.pyc', reloading
+2021-10-10 20:19:44,648 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\contextlib.cpython-38.pyc', reloading
+2021-10-10 20:19:44,650 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\collections\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-10 20:19:44,651 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\operator.cpython-38.pyc', reloading
+2021-10-10 20:19:44,651 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\keyword.cpython-38.pyc', reloading
+2021-10-10 20:19:44,652 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\heapq.cpython-38.pyc', reloading
+2021-10-10 20:19:44,653 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\reprlib.cpython-38.pyc', reloading
+2021-10-10 20:19:44,654 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\functools.cpython-38.pyc', reloading
+2021-10-10 20:19:44,661 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-10 20:19:44,661 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\__future__.cpython-38.pyc', reloading
+2021-10-10 20:19:44,661 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\json\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-10 20:19:44,661 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\json\\__pycache__\\decoder.cpython-38.pyc', reloading
+2021-10-10 20:19:44,661 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\re.cpython-38.pyc', reloading
+2021-10-10 20:19:44,661 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\enum.cpython-38.pyc', reloading
+2021-10-10 20:19:44,661 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\sre_compile.cpython-38.pyc', reloading
+2021-10-10 20:19:44,661 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\sre_parse.cpython-38.pyc', reloading
+2021-10-10 20:19:44,661 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\sre_constants.cpython-38.pyc', reloading
+2021-10-10 20:19:44,677 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\copyreg.cpython-38.pyc', reloading
+2021-10-10 20:19:44,677 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\json\\__pycache__\\scanner.cpython-38.pyc', reloading
+2021-10-10 20:19:44,677 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\json\\__pycache__\\encoder.cpython-38.pyc', reloading
+2021-10-10 20:19:44,677 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\common\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-10 20:19:44,677 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\common\\__pycache__\\compat.cpython-38.pyc', reloading
+2021-10-10 20:19:44,677 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\tempfile.cpython-38.pyc', reloading
+2021-10-10 20:19:44,677 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\shutil.cpython-38.pyc', reloading
+2021-10-10 20:19:44,677 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\fnmatch.cpython-38.pyc', reloading
+2021-10-10 20:19:44,677 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\posixpath.cpython-38.pyc', reloading
+2021-10-10 20:19:44,677 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\bz2.cpython-38.pyc', reloading
+2021-10-10 20:19:44,677 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\_compression.cpython-38.pyc', reloading
+2021-10-10 20:19:44,677 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\threading.cpython-38.pyc', reloading
+2021-10-10 20:19:44,677 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\_weakrefset.cpython-38.pyc', reloading
+2021-10-10 20:19:44,677 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\lzma.cpython-38.pyc', reloading
+2021-10-10 20:19:44,677 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\random.cpython-38.pyc', reloading
+2021-10-10 20:19:44,692 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\bisect.cpython-38.pyc', reloading
+2021-10-10 20:19:44,692 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\weakref.cpython-38.pyc', reloading
+2021-10-10 20:19:44,692 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\collections\\__pycache__\\abc.cpython-38.pyc', reloading
+2021-10-10 20:19:44,692 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\cli\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-10 20:19:44,692 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\cli\\__pycache__\\main.cpython-38.pyc', reloading
+2021-10-10 20:19:44,692 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\__pycache__\\exceptions.cpython-38.pyc', reloading
+2021-10-10 20:19:44,692 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\datetime.cpython-38.pyc', reloading
+2021-10-10 20:19:44,692 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\logging\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-10 20:19:44,692 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\traceback.cpython-38.pyc', reloading
+2021-10-10 20:19:44,692 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\linecache.cpython-38.pyc', reloading
+2021-10-10 20:19:44,692 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\tokenize.cpython-38.pyc', reloading
+2021-10-10 20:19:44,692 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\token.cpython-38.pyc', reloading
+2021-10-10 20:19:44,692 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\string.cpython-38.pyc', reloading
+2021-10-10 20:19:44,692 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\textwrap.cpython-38.pyc', reloading
+2021-10-10 20:19:44,692 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\getpass.cpython-38.pyc', reloading
+2021-10-10 20:19:44,708 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\_vendor\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-10 20:19:44,708 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-10 20:19:44,708 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\entity.cpython-38.pyc', reloading
+2021-10-10 20:19:44,708 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\_vendor\\auxlib\\_vendor\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-10 20:19:44,708 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\_vendor\\auxlib\\_vendor\\boltons\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-10 20:19:44,708 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\_vendor\\auxlib\\_vendor\\boltons\\__pycache__\\timeutils.cpython-38.pyc', reloading
+2021-10-10 20:19:44,708 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\collection.cpython-38.pyc', reloading
+2021-10-10 20:19:44,708 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\compat.cpython-38.pyc', reloading
+2021-10-10 20:19:44,708 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\_vendor\\auxlib\\_vendor\\__pycache__\\five.cpython-38.pyc', reloading
+2021-10-10 20:19:44,708 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\imp.cpython-38.pyc', reloading
+2021-10-10 20:19:44,708 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\_vendor\\auxlib\\_vendor\\__pycache__\\six.cpython-38.pyc', reloading
+2021-10-10 20:19:44,708 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\struct.cpython-38.pyc', reloading
+2021-10-10 20:19:44,708 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\shlex.cpython-38.pyc', reloading
+2021-10-10 20:19:44,708 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\exceptions.cpython-38.pyc', reloading
+2021-10-10 20:19:44,708 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\ish.cpython-38.pyc', reloading
+2021-10-10 20:19:44,708 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\logz.cpython-38.pyc', reloading
+2021-10-10 20:19:44,708 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\type_coercion.cpython-38.pyc', reloading
+2021-10-10 20:19:44,708 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\_vendor\\auxlib\\__pycache__\\decorators.cpython-38.pyc', reloading
+2021-10-10 20:19:44,708 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\_vendor\\toolz\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-10 20:19:44,708 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\cytoolz\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-10 20:19:44,723 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\toolz\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-10 20:19:44,723 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\toolz\\__pycache__\\itertoolz.cpython-38.pyc', reloading
+2021-10-10 20:19:44,723 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\toolz\\__pycache__\\utils.cpython-38.pyc', reloading
+2021-10-10 20:19:44,723 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\toolz\\__pycache__\\functoolz.cpython-38.pyc', reloading
+2021-10-10 20:19:44,723 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\inspect.cpython-38.pyc', reloading
+2021-10-10 20:19:44,723 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\dis.cpython-38.pyc', reloading
+2021-10-10 20:19:44,723 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\opcode.cpython-38.pyc', reloading
+2021-10-10 20:19:44,723 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\toolz\\__pycache__\\_signatures.cpython-38.pyc', reloading
+2021-10-10 20:19:44,723 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\toolz\\__pycache__\\dicttoolz.cpython-38.pyc', reloading
+2021-10-10 20:19:44,723 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\toolz\\__pycache__\\recipes.cpython-38.pyc', reloading
+2021-10-10 20:19:44,723 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\toolz\\curried\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-10 20:19:44,723 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\toolz\\curried\\__pycache__\\operator.cpython-38.pyc', reloading
+2021-10-10 20:19:44,723 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\ast.cpython-38.pyc', reloading
+2021-10-10 20:19:44,753 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\toolz\\curried\\__pycache__\\exceptions.cpython-38.pyc', reloading
+2021-10-10 20:19:44,754 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\toolz\\sandbox\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-10 20:19:44,755 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\toolz\\sandbox\\__pycache__\\core.cpython-38.pyc', reloading
+2021-10-10 20:19:44,756 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\toolz\\sandbox\\__pycache__\\parallel.cpython-38.pyc', reloading
+2021-10-10 20:19:44,760 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\toolz\\__pycache__\\_version.cpython-38.pyc', reloading
+2021-10-10 20:19:44,763 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\cytoolz\\__pycache__\\_signatures.cpython-38.pyc', reloading
+2021-10-10 20:19:44,763 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\copy.cpython-38.pyc', reloading
+2021-10-10 20:19:44,763 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\cytoolz\\curried\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-10 20:19:44,763 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\cytoolz\\curried\\__pycache__\\operator.cpython-38.pyc', reloading
+2021-10-10 20:19:44,779 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\cytoolz\\curried\\__pycache__\\exceptions.cpython-38.pyc', reloading
+2021-10-10 20:19:44,779 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\cytoolz\\__pycache__\\_version.cpython-38.pyc', reloading
+2021-10-10 20:19:44,779 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\base\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-10 20:19:44,779 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\base\\__pycache__\\constants.cpython-38.pyc', reloading
+2021-10-10 20:19:44,779 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\common\\__pycache__\\io.cpython-38.pyc', reloading
+2021-10-10 20:19:44,779 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\concurrent\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-10 20:19:44,779 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\concurrent\\futures\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-10 20:19:44,779 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\concurrent\\futures\\__pycache__\\_base.cpython-38.pyc', reloading
+2021-10-10 20:19:44,779 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\concurrent\\futures\\__pycache__\\process.cpython-38.pyc', reloading
+2021-10-10 20:19:44,779 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\queue.cpython-38.pyc', reloading
+2021-10-10 20:19:44,795 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\multiprocessing\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-10 20:19:44,795 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\multiprocessing\\__pycache__\\context.cpython-38.pyc', reloading
+2021-10-10 20:19:44,795 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\multiprocessing\\__pycache__\\process.cpython-38.pyc', reloading
+2021-10-10 20:19:44,795 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\signal.cpython-38.pyc', reloading
+2021-10-10 20:19:44,795 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\multiprocessing\\__pycache__\\reduction.cpython-38.pyc', reloading
+2021-10-10 20:19:44,795 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\pickle.cpython-38.pyc', reloading
+2021-10-10 20:19:44,795 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\_compat_pickle.cpython-38.pyc', reloading
+2021-10-10 20:19:44,795 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\socket.cpython-38.pyc', reloading
+2021-10-10 20:19:44,795 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\selectors.cpython-38.pyc', reloading
+2021-10-10 20:19:44,795 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\multiprocessing\\__pycache__\\connection.cpython-38.pyc', reloading
+2021-10-10 20:19:44,795 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\multiprocessing\\__pycache__\\util.cpython-38.pyc', reloading
+2021-10-10 20:19:44,810 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\subprocess.cpython-38.pyc', reloading
+2021-10-10 20:19:44,810 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\multiprocessing\\__pycache__\\queues.cpython-38.pyc', reloading
+2021-10-10 20:19:44,810 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\concurrent\\futures\\__pycache__\\thread.cpython-38.pyc', reloading
+2021-10-10 20:19:44,810 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\common\\__pycache__\\constants.cpython-38.pyc', reloading
+2021-10-10 20:19:44,810 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\common\\__pycache__\\path.cpython-38.pyc', reloading
+2021-10-10 20:19:44,810 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\distutils\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-10 20:19:44,810 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\distutils\\__pycache__\\spawn.cpython-38.pyc', reloading
+2021-10-10 20:19:44,810 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\distutils\\__pycache__\\errors.cpython-38.pyc', reloading
+2021-10-10 20:19:44,810 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\distutils\\__pycache__\\debug.cpython-38.pyc', reloading
+2021-10-10 20:19:44,810 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\distutils\\__pycache__\\log.cpython-38.pyc', reloading
+2021-10-10 20:19:44,810 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\urllib\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-10 20:19:44,810 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\urllib\\__pycache__\\parse.cpython-38.pyc', reloading
+2021-10-10 20:19:44,810 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\_vendor\\tqdm\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-10 20:19:44,810 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\_vendor\\tqdm\\__pycache__\\std.cpython-38.pyc', reloading
+2021-10-10 20:19:44,810 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\_vendor\\tqdm\\__pycache__\\utils.cpython-38.pyc', reloading
+2021-10-10 20:19:44,826 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\ctypes\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-10 20:19:44,826 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\ctypes\\__pycache__\\_endian.cpython-38.pyc', reloading
+2021-10-10 20:19:44,826 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\ctypes\\__pycache__\\wintypes.cpython-38.pyc', reloading
+2021-10-10 20:19:44,826 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\_vendor\\tqdm\\__pycache__\\_monitor.cpython-38.pyc', reloading
+2021-10-10 20:19:44,826 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\numbers.cpython-38.pyc', reloading
+2021-10-10 20:19:44,826 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\_vendor\\tqdm\\__pycache__\\cli.cpython-38.pyc', reloading
+2021-10-10 20:19:44,826 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\_vendor\\tqdm\\__pycache__\\_version.cpython-38.pyc', reloading
+2021-10-10 20:19:44,826 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\common\\__pycache__\\signals.cpython-38.pyc', reloading
+2021-10-10 20:19:44,826 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\cli\\__pycache__\\conda_argparse.cpython-38.pyc', reloading
+2021-10-10 20:19:44,826 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\argparse.cpython-38.pyc', reloading
+2021-10-10 20:19:44,842 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\gettext.cpython-38.pyc', reloading
+2021-10-10 20:19:44,842 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\locale.cpython-38.pyc', reloading
+2021-10-10 20:19:44,857 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\base\\__pycache__\\context.cpython-38.pyc', reloading
+2021-10-10 20:19:44,857 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\platform.cpython-38.pyc', reloading
+2021-10-10 20:19:44,857 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\_vendor\\__pycache__\\appdirs.cpython-38.pyc', reloading
+2021-10-10 20:19:44,857 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\_vendor\\boltons\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-10 20:19:44,857 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\_vendor\\boltons\\__pycache__\\setutils.cpython-38.pyc', reloading
+2021-10-10 20:19:44,857 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\_vendor\\__pycache__\\frozendict.cpython-38.pyc', reloading
+2021-10-10 20:19:44,857 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\common\\__pycache__\\configuration.cpython-38.pyc', reloading
+2021-10-10 20:19:44,857 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\common\\__pycache__\\serialize.cpython-38.pyc', reloading
+2021-10-10 20:19:44,857 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-10 20:19:44,857 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\cyaml.cpython-38.pyc', reloading
+2021-10-10 20:19:44,857 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\ruamel_yaml\\ext\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-10 20:19:44,873 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\error.cpython-38.pyc', reloading
+2021-10-10 20:19:44,873 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\compat.cpython-38.pyc', reloading
+2021-10-10 20:19:44,873 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\reader.cpython-38.pyc', reloading
+2021-10-10 20:19:44,873 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\util.cpython-38.pyc', reloading
+2021-10-10 20:19:44,873 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\scanner.cpython-38.pyc', reloading
+2021-10-10 20:19:44,873 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\tokens.cpython-38.pyc', reloading
+2021-10-10 20:19:44,873 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\parser.cpython-38.pyc', reloading
+2021-10-10 20:19:44,873 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\events.cpython-38.pyc', reloading
+2021-10-10 20:19:44,873 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\composer.cpython-38.pyc', reloading
+2021-10-10 20:19:44,873 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\nodes.cpython-38.pyc', reloading
+2021-10-10 20:19:44,873 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\constructor.cpython-38.pyc', reloading
+2021-10-10 20:19:44,873 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\base64.cpython-38.pyc', reloading
+2021-10-10 20:19:44,873 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\comments.cpython-38.pyc', reloading
+2021-10-10 20:19:44,873 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\scalarstring.cpython-38.pyc', reloading
+2021-10-10 20:19:44,873 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\anchor.cpython-38.pyc', reloading
+2021-10-10 20:19:44,873 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\scalarint.cpython-38.pyc', reloading
+2021-10-10 20:19:44,873 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\scalarfloat.cpython-38.pyc', reloading
+2021-10-10 20:19:44,873 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\scalarbool.cpython-38.pyc', reloading
+2021-10-10 20:19:44,873 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\timestamp.cpython-38.pyc', reloading
+2021-10-10 20:19:44,873 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\emitter.cpython-38.pyc', reloading
+2021-10-10 20:19:44,873 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\serializer.cpython-38.pyc', reloading
+2021-10-10 20:19:44,873 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\representer.cpython-38.pyc', reloading
+2021-10-10 20:19:44,888 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\resolver.cpython-38.pyc', reloading
+2021-10-10 20:19:44,888 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\main.cpython-38.pyc', reloading
+2021-10-10 20:19:44,895 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\glob.cpython-38.pyc', reloading
+2021-10-10 20:19:44,897 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\loader.cpython-38.pyc', reloading
+2021-10-10 20:19:44,898 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\ruamel_yaml\\__pycache__\\dumper.cpython-38.pyc', reloading
+2021-10-10 20:19:44,900 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\common\\_os\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-10 20:19:44,901 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\common\\_os\\__pycache__\\windows.cpython-38.pyc', reloading
+2021-10-10 20:19:44,904 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\common\\_os\\__pycache__\\linux.cpython-38.pyc', reloading
+2021-10-10 20:19:44,905 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\common\\__pycache__\\url.cpython-38.pyc', reloading
+2021-10-10 20:19:44,905 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\_vendor\\urllib3\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-10 20:19:44,906 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\_vendor\\urllib3\\__pycache__\\exceptions.cpython-38.pyc', reloading
+2021-10-10 20:19:44,907 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\_vendor\\urllib3\\util\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-10 20:19:44,907 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\_vendor\\urllib3\\util\\__pycache__\\url.cpython-38.pyc', reloading
+2021-10-10 20:19:44,908 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\common\\__pycache__\\decorators.cpython-38.pyc', reloading
+2021-10-10 20:19:44,911 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\gateways\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-10 20:19:44,912 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\gateways\\__pycache__\\logging.cpython-38.pyc', reloading
+2021-10-10 20:19:44,912 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\cli\\__pycache__\\main_list.cpython-38.pyc', reloading
+2021-10-10 20:19:44,912 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\cli\\__pycache__\\common.cpython-38.pyc', reloading
+2021-10-10 20:19:44,912 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\models\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-10 20:19:44,912 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\models\\__pycache__\\match_spec.cpython-38.pyc', reloading
+2021-10-10 20:19:44,912 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\models\\__pycache__\\channel.cpython-38.pyc', reloading
+2021-10-10 20:19:44,912 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\models\\__pycache__\\version.cpython-38.pyc', reloading
+2021-10-10 20:19:44,912 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\core\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-10 20:19:44,912 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\core\\__pycache__\\prefix_data.cpython-38.pyc', reloading
+2021-10-10 20:19:44,912 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\common\\pkg_formats\\__pycache__\\__init__.cpython-38.pyc', reloading
+2021-10-10 20:19:44,912 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\site-packages\\conda\\common\\pkg_formats\\__pycache__\\python.cpython-38.pyc', reloading
+2021-10-10 20:19:44,912 INFO werkzeug Thread-2 :  * Detected change in 'C:\\Users\\NAVEEN\\Python\\Anaconda\\Lib\\__pycache__\\csv.cpython-38.pyc', reloading
