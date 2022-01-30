@@ -7,7 +7,7 @@
   * [Overview](#overview)
   * [Motivation](#motivation)
   * [Installation](#installation)
-  * [Directory Tree](#directory-tree)
+  * [Technologies Used](#technologies-used)
   * [Bug / Feature Request](#bug---feature-request)
   * [Future scope of project](#future-scope)
 
@@ -19,7 +19,7 @@
 ![](https://i.imgur.com/dEDl1zx.png)
 
 ## Overview
-This is a Flask web app which predicts fare of Flight ticket.
+This is a Flask web app which predicts Rating of Restaurant. Codes has to be given for the Cuisine, location, Restaurant type and menu item as per the list attached.
 
 ## Motivation
 I am really facinated about Data Science, This is my first End-to-End Data Science project. It may not be the the best one, but I have learnt a lot. This pandamic really helped me to choose a right career option. The first video which I watched about data science really introduced me to Data Science world and that is when I have set DS as my career goal. I really struggled in the beginning but eventually I took my time to get confortable and slowly I started loving the challenges which I felt intimidating at first.
